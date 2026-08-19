@@ -1,0 +1,18 @@
+Fitter Status : Successful - Wed Aug 19 16:09:14 2026
+Quartus Prime Version : 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+Revision Name : fpga
+Top-level Entity Name : spi_link_test
+Family : MAX 10
+Device : 10M02SCM153C8G
+Timing Models : Final
+Total logic elements : 36 / 2,304 ( 2 % )
+    Total combinational functions : 22 / 2,304 ( < 1 % )
+    Dedicated logic registers : 29 / 2,304 ( 1 % )
+Total registers : 29
+Total pins : 4 / 112 ( 4 % )
+Total virtual pins : 0
+Total memory bits : 0 / 110,592 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 32 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0

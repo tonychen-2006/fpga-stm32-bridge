@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "SPISO",
+					"strict" : false
+				},
+				{
+					"name" : "SPICS",
+					"strict" : false
+				},
+				{
+					"name" : "SPISCK",
+					"strict" : false
+				},
+				{
+					"name" : "SPISI",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

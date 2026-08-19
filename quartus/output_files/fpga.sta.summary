@@ -1,0 +1,41 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'SPISCK'
+Slack : -1.723
+TNS   : -30.734
+
+Type  : Slow 1200mV 85C Model Hold 'SPISCK'
+Slack : 0.394
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'SPISCK'
+Slack : -3.000
+TNS   : -46.123
+
+Type  : Slow 1200mV 0C Model Setup 'SPISCK'
+Slack : -1.644
+TNS   : -28.300
+
+Type  : Slow 1200mV 0C Model Hold 'SPISCK'
+Slack : 0.352
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'SPISCK'
+Slack : -3.000
+TNS   : -46.123
+
+Type  : Fast 1200mV 0C Model Setup 'SPISCK'
+Slack : -0.083
+TNS   : -0.411
+
+Type  : Fast 1200mV 0C Model Hold 'SPISCK'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'SPISCK'
+Slack : -3.000
+TNS   : -39.705
+
+------------------------------------------------------------

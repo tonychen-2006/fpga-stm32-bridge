@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Wed Aug 19 16:09:20 2026
+Quartus Prime Version : 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+Revision Name : fpga
+Top-level Entity Name : spi_link_test
+Family : MAX 10
+Device : 10M02SCM153C8G
+Power Models : Final
+Total Thermal Power Dissipation : 78.13 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 66.80 mW
+I/O Thermal Power Dissipation : 11.33 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data
