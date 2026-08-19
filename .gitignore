@@ -1,0 +1,6 @@
+# STM32CubeIDE managed-build output
+/firmware/Debug/
+/firmware/Release/
+
+# Host/editor metadata
+.DS_Store
