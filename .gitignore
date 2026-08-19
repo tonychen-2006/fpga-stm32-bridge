@@ -2,5 +2,9 @@
 /firmware/Debug/
 /firmware/Release/
 
+# Lattice Diamond generated implementation and transient reports
+/diamond/impl*/
+/fpga_tcr.dir/
+
 # Host/editor metadata
 .DS_Store
