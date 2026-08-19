@@ -1,0 +1,6 @@
+#Start recording tcl command: 8/19/2026 02:35:32
+#Project Location: /home/tonyc/DEV/work/eim/fpga-stm32-bridge; Project name: fpga
+prj_project new -name "fpga" -impl "impl1" -dev LCMXO2-4000HC-4MG132I -synthesis "lse"
+prj_project save
+prj_project close
+#Stop recording: 8/19/2026 02:49:58
